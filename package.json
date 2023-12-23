@@ -1,0 +1,13 @@
+{
+  "name": "ssr-experiments",
+  "version": "1.0.0",
+  "description": "Experiments on SSR",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rohith Ramakrishnan",
+  "license": "MIT",
+  "workspaces": [
+    "react"
+  ]
+}
